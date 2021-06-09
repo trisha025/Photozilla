@@ -4,20 +4,38 @@
 ### Photozilla Classes
 
 
-```markdown
-
 Photozilla dataset consists of a total of 20 classes. Out of that 10 classes have on average 100k images per class. These classes and images were used to train our image classification models. In order to evaluate our models capability to adapt to new photography styles we further augment our dataset with 10 additional classes. These additional classes have only 25 training samples per each class.
   
-## Original 10 classes
-1. Nature
-2. Potrait
-3. Landscape
-## Additional 10 classes
-1. Architecture
-2. Underwater
+### Original 10 classes
 
 
-**Bold** and _Italic_ and `Code` text
+1. Aerial
+2. Architecture
+3. Event
+4. Fashion
+5. Food
+6. Nature
+7. Sports
+8. Street
+9. Wedding
+10. Wildlife
+
+
+### Additional 10 classes
+
+
+1. Abstract
+2. Astrophotography
+3. Automotive
+4. Landscape
+5. Lifestyle
+6. Long Exposure
+7. Panorama
+8. Portrait
+9. Travel
+10. Underwater
+
+
 
 [Link](url) and ![Image](src)
 ```
