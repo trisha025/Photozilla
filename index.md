@@ -7,13 +7,12 @@
 ```markdown
 
 Photozilla dataset consists of a total of 20 classes. Out of that 10 classes have on average 100k images per class. These classes and images were used to train our image classification models. In order to evaluate our models capability to adapt to new photography styles we further augment our dataset with 10 additional classes. These additional classes have only 25 training samples per each class.
-
-#  
+  
 ## Original 10 classes
 1. Nature
 2. Potrait
 3. Landscape
-### Additional 10 classes
+## Additional 10 classes
 1. Architecture
 2. Underwater
 
