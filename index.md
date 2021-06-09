@@ -43,7 +43,9 @@ Photozilla dataset consists of a total of 20 classes. Out of that 10 classes hav
 
 ### Citation
 
-If you find the code useful, please cite us:
+
+If your publication uses the data, either in full or in part, you should cite the paper below:
+
 
 ```markdown
 Singhal T, Liu J, Blessing LT, Lim KH. Photozilla: A Large-Scale Photography Dataset and Visual Embedding for 20 Photography Styles. In 2021 9th Women in Computer Vision (WiCV) workshop  in conjuction with Computer Vision and Pattern Recognition (CVPR 2021).
