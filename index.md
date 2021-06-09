@@ -36,11 +36,6 @@ Photozilla dataset consists of a total of 20 classes. Out of that 10 classes hav
 10. Underwater
 
 
-
-[Link](url) and ![Image](src)
-```
-
-
 ### Citation
 
 
