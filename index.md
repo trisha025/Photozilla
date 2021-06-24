@@ -41,6 +41,8 @@ Photozilla dataset consists of a total of 20 classes. Out of that 10 classes hav
 
 ## Citation
 
+### Link: [Photozilla Paper](https://arxiv.org/pdf/2106.11359.pdf)
+
 
 If your publication uses the data, either in full or in part, you should cite the paper below:
 
