@@ -48,6 +48,11 @@ If your publication uses the data, either in full or in part, you should cite th
 
 
 ```markdown
-Singhal T, Liu J, Blessing LT, Lim KH. Photozilla: A Large-Scale Photography Dataset and Visual Embedding for 20 Photography Styles. In 2021 9th Women in Computer Vision (WiCV) workshop  in conjuction with Computer Vision and Pattern Recognition (CVPR 2021).
+@article{singhal2021photozilla,
+  title={Photozilla: A Large-Scale Photography Dataset and Visual Embedding for 20 Photography Styles},
+  author={Singhal, Trisha and Liu, Junhua and Blessing, Lucienne and Lim, Kwan Hui},
+  journal={arXiv preprint arXiv:2106.11359},
+  year={2021}
+}
 
 ```
